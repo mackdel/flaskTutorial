@@ -17,6 +17,12 @@ This project will
 pip install -r requirements.txt
 ```
 
+### Setup Database
+
+```
+flask --app flaskr init-db
+```
+
 ### Executing program
 
 ```
