@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### Executing program
 
 ```
-python main.py
+flask --app flaskr run
 ```
 
 ## Output
